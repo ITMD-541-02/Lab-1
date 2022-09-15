@@ -6,9 +6,13 @@ body{
     background-color: #0b0c10;
 }
 
-.header{
-    overflow: hidden; height: 0px; width: 0px;
-} 
+#main-navbar{
+    background-color: #FF4F58FF;
+    overflow:hidden;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+}
 
 h1,h2,h3{
     font-family: 'Fira Mono', serif;	
@@ -20,7 +24,7 @@ h1,h2,h3{
 .body{
     font-family: 'Georgia', serif;
     font-size: 120%;
+    margin-left: 23%;
     width: 1000px;
-    padding: 400px;
     color: #c5c6c7;
 }
