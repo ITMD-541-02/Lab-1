@@ -2,14 +2,25 @@
     text-align: center;
 }
 
+body{
+    background-color: #0b0c10;
+}
+
+.h1{
+    overflow: hidden;
+} 
+
 h1,h2,h3{
     font-family: 'Fira Mono', serif;	
     font-size: 250%;
     padding: 1%;
+    color: #66FCF1;
 }
 
 .body{
     font-family: 'Georgia', serif;
     font-size: 120%;
-    margin-left: 2%;
+    width: 1000px;
+    padding: 400px;
+    color: #c5c6c7;
 }
