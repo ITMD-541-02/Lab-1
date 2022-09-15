@@ -7,10 +7,10 @@ body{
 }
 
 #main-navbar{
-    background-color: #FF4F58FF;
-    overflow:hidden;
+    background-color: #1f2833;
+    overflow: hidden;
     border-radius: 25px;
-    padding: 10px;
+    padding: 1px;
     width: 100%;
 }
 
